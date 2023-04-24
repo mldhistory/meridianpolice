@@ -10,18 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="col008_mp_96" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="History of Law Enforcement in Meridian, Idaho;About the Meridian Police Collection" %}
 
-## About the Collection
+## History of Law Enforcement in Meridian, Idaho
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## About The Meridian Police Collection
+The Meridian Police Collection is produced in cooperation with the Meridian Police Department (MPD). The Meridian Police Department graciously allowed the Meridian Library District History Center to access the Gene Hiner Scrapbook, photos, badges, and other historic materials within the possession of the MPD.This access allowed the MLD History Center the ability to digitize and preserve the history of the Meridian Police Department as part of the MLD History Center's larger digital collection of Meridian History. Special thanks is also given to the Gene Hiner family for granting permission for the Gene Hiner Scrapbook to be added to this online collection. More materials are expected to be added to this collection in future cooperation with the MPD. By no means is this website meant to be a complete history of the MPD, but merely a starting point to preserve the over 100 year history of law enforcement in Meridian, Idaho. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
