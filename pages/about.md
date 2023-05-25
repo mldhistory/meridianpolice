@@ -12,7 +12,7 @@ credits: true
 
 {% include feature/nav-menu.html sections="History of Law Enforcement in Meridian, Idaho;About the Meridian Police Collection" %}
 
-## History of Law Enforcement in Meridian, Idaho
+## History of Law Enforcement in Meridian, Idaho:
 When Meridian was established in 1903, the Village Board of Trustees, among their other duties, were in charge of selecting and providing  a village marshal to enforce the laws and ordinances of the city. On September 1, 1903 the first village marshal, Otis Pfost, was voted in by the Village Board with a wage of $25 per month (Meridian Village Board of Trustees Minutes, September 1, 1903; January 4, 1904). Since then, the city of Meridian has had numerous marshals (later known as police chiefs) and, as needed with population growth, the addition of numerous police officers. The following is only a snapshot of the history of law enforcement in Meridian, Idaho. 
 {% include feature/image.html objectid="col008_mp_56" width="50" %}
 ## Law Enforcement in Early Meridian:
