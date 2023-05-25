@@ -47,8 +47,59 @@ In 1998, Meridian Police began discussing the possibility of a K-9 training faci
 
 The above history is only meant to be a brief snapshot of the history of law enforcement in Meridian, Idaho. What started as a small village with one marshal, has grown into a booming city with  _____ police officers. Meridian Law enforcement has participated in numerous activities in its over one hundred year history. Of course, the majority of these activities involved stories of enforcing the law and arresting law breakers when the situations arose. However, Meridian police officers do far more. They live in the community, they participate with the community, and they serve the community. Most of their history goes unrecognized, but this digital collection seeks to shine a little light on the history of the Meridian Police Department.  
 	  
-## Sources for History of Law Enforcement in Meridian, Idaho 
+## Meridian Marshal & Police Chief Chronology
+Marshal Otis Pfost (September 1903-February 1904)
+Marshal P.F. Doherty (March 1904-April 1904)
+Marshal John Wilburn (April 1904-December 1904)
+Marshal Bert Daly (December 1904-August 1905)
+Marshal Mack Starr (August 1905-February 1907)
+Marshal John Daly, Jr. (February 1907-May 1907)
+Marshal Matt Currant (May 1907-May 1908)
+Marshal Jake Eames (June 1908-October 1908)
+Marshal William Hedges (October 1908-March 1909)
+Marshal John Clark (March 1909-April 1909)
+Marshal W.H. Finch (May 1909-January 1910)
+Marshal William F. Downey (March 1910-May 1915)
+Marshal Mannie Alyea (May 1915-June 1915)
+Marshal W.F. Downey (June 1915-July 1915)
+Marshal (Night Marshal) John Finch (July 1915-November 1916)
+Marshal (Deputy Marshal) Ben Lusby (September 1915-April 1917)
+Marshal Robert Evans (April 1917-March 1918)
+Marshall Allen Beasley (March 1918-October 1921)
+Marshal John McGill (October 1921-At least April 1922)
+Marshal Knute Westerheim (In July 1922 listed as Marshal in city financial report)
+Marshal C.P. Spencer (June 1923-at least May 1927 according to Village Board-see pg 229) 
+Marshal J.M. Jackson (July-recorded as Marshal in city financial report-February 1925)
+Marshal John Klink and J.W. May (February 1925 city financial records show both serving, Marshal J.M. Jackson died that month)
+Marshal J.W. May (March 1925-May 1927)
+Marshal C.P. Spencer as Marshal & Street Commissioner (May 1927-May 1929; J.W. May the night marshal
+Marshal Robin French (May 1929-August 1933); J.W. May the night marshal
+Harry Oui [Opie?] and J.W. May are both night marshalls (starting May 1932)
+Marshal Harold Frost (August 1933-December 1933)
+Marshal Robin French (again, December 1933-April 1941)
+Marshal W.A. Palmer-Night Marshal (March 1934-????)
+Chief of Police Frank Jolley (May 1941-May 1944)
+Chief of Police R.C. Rossow (May 1944-May 1945)
+Chief of Police W.E. Higginson (May 1945-November 1945)
+Chief of Police W.A. Palmer (Nov. 1945-April 1946)
+Chief of Police L.H. Brown (May 1946-June 1946)
+Chief of Police W.O. McGill (June 1946-July 1951)
+Chief of Police Floyd Rosecrans (July 1951-August 1953)
+Chief of Police Steve McGill (August 1953-December 1960)
+Chief of Police Oren E. Pritchard (January 1961-February 1963)
+Chief of Police Gene Hiner (February 4, 1963-Feb. 28, 1973)
+Chief of Police Sidney “Sid” Spath (April 1973-??????)
+Chief of Police Gary Green (1974- April 1979)
+Chief of Police Roger Sherwin (April 1979-December 1980)
+Chief of Police Doug Nichols (December 1980-January 1985) 
+Chief of Police Roy Porter (1985- May 1989)
+Chief of Police Bill Gordon (May 1989-September 2001)
+Chief of Police Mike Worley (October 2001-July 31, 2003)
+Chief of Police William “Bill” Musser (August 2003-August 2007)
+Chief of Police Jeff Lavey (September 2007-January 3, 2021)
+Chief of Police Tracy Basterrechea (January 2001-current)
 
+## Sources for History of Law Enforcement in Meridian, Idaho 
 ## About The Meridian Police Collection
 The Meridian Police Collection is produced in cooperation with the Meridian Police Department (MPD). The Meridian Police Department graciously allowed the Meridian Library District History Center to access the Gene Hiner Scrapbook, photos, badges, and other historic materials within the possession of the MPD.This access allowed the MLD History Center the ability to digitize and preserve the history of the Meridian Police Department as part of the MLD History Center's larger digital collection of Meridian History. Special thanks is also given to the Gene Hiner family for granting permission for the Gene Hiner Scrapbook to be added to this online collection. More materials are expected to be added to this collection in future cooperation with the MPD. By no means is this website meant to be a complete history of the MPD, but merely a starting point to preserve the over 100 year history of law enforcement in Meridian, Idaho. 
 
