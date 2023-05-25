@@ -53,5 +53,4 @@ The above history is only meant to be a brief snapshot of the history of law enf
 The Meridian Police Collection is produced in cooperation with the Meridian Police Department (MPD). The Meridian Police Department graciously allowed the Meridian Library District History Center to access the Gene Hiner Scrapbook, photos, badges, and other historic materials within the possession of the MPD.This access allowed the MLD History Center the ability to digitize and preserve the history of the Meridian Police Department as part of the MLD History Center's larger digital collection of Meridian History. Special thanks is also given to the Gene Hiner family for granting permission for the Gene Hiner Scrapbook to be added to this online collection. More materials are expected to be added to this collection in future cooperation with the MPD. By no means is this website meant to be a complete history of the MPD, but merely a starting point to preserve the over 100 year history of law enforcement in Meridian, Idaho. 
 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
