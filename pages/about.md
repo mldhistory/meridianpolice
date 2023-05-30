@@ -48,56 +48,56 @@ In 1998, Meridian Police began discussing the possibility of a K-9 training faci
 The above history is only meant to be a brief snapshot of the history of law enforcement in Meridian, Idaho. What started as a small village with one marshal, has grown into a booming city with  _____ police officers. Meridian Law enforcement has participated in numerous activities in its over one hundred year history. Of course, the majority of these activities involved stories of enforcing the law and arresting law breakers when the situations arose. However, Meridian police officers do far more. They live in the community, they participate with the community, and they serve the community. Most of their history goes unrecognized, but this digital collection seeks to shine a little light on the history of the Meridian Police Department.  
 	  
 ## Meridian Marshal & Police Chief Chronology
-1903: Marshal Otis Pfost (September 1903-February 1904)
-1904: Marshal P.F. Doherty (March 1904-April 1904)
-1904: Marshal John Wilburn (April 1904-December 1904)
-1905: Marshal Bert Daly (December 1904-August 1905)
-1905: Marshal Mack Starr (August 1905-February 1907)
-1907: Marshal John Daly, Jr. (February 1907-May 1907)
-1907: Marshal Matt Currant (May 1907-May 1908)
-1908: Marshal Jake Eames (June 1908-October 1908)
-1909: Marshal William Hedges (October 1908-March 1909)
-1909: Marshal John Clark (March 1909-April 1909)
-1909: Marshal W.H. Finch (May 1909-January 1910)
-1910: Marshal William F. Downey (March 1910-May 1915)
-1913: Marshal Mannie Alyea (May 1915-June 1915)
-1915: Marshal W.F. Downey (June 1915-July 1915)
-1915: Marshal (Night Marshal) John Finch (July 1915-November 1916)
-1915: Marshal (Deputy Marshal) Ben Lusby (September 1915-April 1917)
-1917: Marshal Robert Evans (April 1917-March 1918)
-1918: Marshall Allen Beasley (March 1918-October 1921)
-1921: Marshal John McGill (October 1921-At least April 1922)
-1922: Marshal Knute Westerheim (In July 1922 listed as Marshal in city financial report)
-1923: Marshal J.M. Jackson (July 1923-February 1925)
-1923: Marshal C.P. Spencer (June 1923-at least May 1927 according to Village Board-see pg 229) 
-1925: Marshal John Klink and J.W. May (February 1925 city financial records show both serving, Marshal J.M. Jackson died that month)
-1925: Marshal J.W. May (March 1925-May 1927)
-1927: Marshal C.P. Spencer as Marshal & Street Commissioner (May 1927-May 1929; J.W. May the night marshal
-1929: Marshal Robin French (May 1929-August 1933); J.W. May the night marshal
-1932: Harry Oui [Opie?] and J.W. May are both night marshalls (starting May 1932)
-1933: Marshal Harold Frost (August 1933-December 1933)
-1933: Marshal Robin French (again, December 1933-April 1941)
-1934: W.A. Palmer becomes Night Marshal (March 1934-????)
-1941: Chief of Police Frank Jolley (May 1941-May 1944)
-1944: Chief of Police R.C. Rossow (May 1944-May 1945)
-1945: Chief of Police W.E. Higginson (May 1945-November 1945)
-1945: Chief of Police W.A. Palmer (Nov. 1945-April 1946)
-1946: Chief of Police L.H. Brown (May 1946-June 1946)
-1946: Chief of Police W.O. McGill (June 1946-July 1951)
-1951: Chief of Police Floyd Rosecrans (July 1951-August 1953)
-1953: Chief of Police Steve McGill (August 1953-December 1960)
-1961: Chief of Police Oren E. Pritchard (January 1961-February 1963)
-1963: Chief of Police Gene Hiner (February 4, 1963-Feb. 28, 1973)
-1973: Chief of Police Sidney “Sid” Spath (April 1973-??????)
-1974: Chief of Police Gary Green (1974- April 1979)
-1979: Chief of Police Roger Sherwin (April 1979-December 1980)
-1980: Chief of Police Doug Nichols (December 1980-January 1985) 
-1985: Chief of Police Roy Porter (1985- May 1989)
-1989: Chief of Police Bill Gordon (May 1989-September 2001)
-2001: Chief of Police Mike Worley (October 2001-July 31, 2003)
-2003: Chief of Police William “Bill” Musser (August 2003-August 2007)
-2007: Chief of Police Jeff Lavey (September 2007-January 3, 2021)
-2021: Chief of Police Tracy Basterrechea (January 2001-current)
+<b>1903:</b> Marshal Otis Pfost (September 1903-February 1904)<br>
+<b>1904:</b> Marshal P.F. Doherty (March 1904-April 1904)<br>
+<b>1904:</b> Marshal John Wilburn (April 1904-December 1904)<br>
+<b>1905:</b> Marshal Bert Daly (December 1904-August 1905)<br>
+<b>1905:</b> Marshal Mack Starr (August 1905-February 1907)<br>
+<b>1907:</b> Marshal John Daly, Jr. (February 1907-May 1907)<br>
+<b>1907:</b> Marshal Matt Currant (May 1907-May 1908)<br>
+<b>1908:</b> Marshal Jake Eames (June 1908-October 1908)<br>
+<b>1909:</b> Marshal William Hedges (October 1908-March 1909)<br>
+<b>1909:</b> Marshal John Clark (March 1909-April 1909)<br>
+<b>1909:</b> Marshal W.H. Finch (May 1909-January 1910)<br>
+<b>1910:</b> Marshal William F. Downey (March 1910-May 1915)<br>
+<b>1913:</b> Marshal Mannie Alyea (May 1915-June 1915)<br>
+<b>1915:</b> Marshal W.F. Downey (June 1915-July 1915)<br>
+<b>1915:</b> (Night) Marshal John Finch (July 1915-November 1916)<br>
+<b>1915:</b> (Deputy)Marshal Ben Lusby (September 1915-April 1917)<br>
+<b>1917:</b> Marshal Robert Evans (April 1917-March 1918)<br>
+<b>1918:</b> Marshal Allen Beasley (March 1918-October 1921)<br>
+<b>1921:</b> Marshal John McGill (October 1921-at least April 1922)<br>
+<b>1922:</b> Marshal Knute Westerheim (In July 1922 listed as Marshal in city financial report)<br>
+<b>1923:</b> Marshal J.M. Jackson (July 1923-February 1925)<br>
+<b>1923:</b> Marshal C.P. Spencer (June 1923-May 1929)<br> 
+<b>1925:</b> Marshal John Klink and J.W. May (February 1925 city financial records show both serving, Marshal J.M. Jackson died that month)<br>
+<b>1925:</b> (Night) Marshal J.W. May (March 1925- at least 1932)<br>
+<b>1927:</b> Marshal C.P. Spencer (May 1927-May 1929)<br>
+<b>1929:</b> Marshal Robin French (May 1929-August 1933)<br>
+<b>1932:</b> (Night) Marshal Harry Oui [Opie?] (starting May 1932-????)<br>
+<b>1933:</b> Marshal Harold Frost (August 1933-December 1933)<br>
+<b>1933:</b> Marshal Robin French (again, December 1933-April 1941)<br>
+<b>1934:</b> (Night) Marshal W.A. Palmer (March 1934-????)<br>
+<b>1941:</b> Chief of Police Frank Jolley (May 1941-May 1944)<br>
+<b>1944:</b> Chief of Police R.C. Rossow (May 1944-May 1945)<br>
+<b>1945:</b> Chief of Police W.E. Higginson (May 1945-November 1945)<br>
+<b>1945:</b> Chief of Police W.A. Palmer (Nov. 1945-April 1946)<br>
+<b>1946:</b> Chief of Police L.H. Brown (May 1946-June 1946)<br>
+<b>1946:</b> Chief of Police W.O. McGill (June 1946-July 1951)<br>
+<b>1951:</b> Chief of Police Floyd Rosecrans (July 1951-August 1953)<br>
+<b>1953:</b> Chief of Police Steve McGill (August 1953-December 1960)<br>
+<b>1961:</b> Chief of Police Oren E. Pritchard (January 1961-February 1963)<br>
+<b>1963:</b> Chief of Police Gene Hiner (February 4, 1963-Feb. 28, 1973)<br>
+<b>1973:</b> Chief of Police Sidney “Sid” Spath (April 1973-1974)<br>
+<b>1974:</b> Chief of Police Gary Green (1974- April 1979)<br>
+<b>1979:</b> Chief of Police Roger Sherwin (April 1979-December 1980)<br>
+<b>1980:</b> Chief of Police Doug Nichols (December 1980-January 1985)<br> 
+<b>1985:</b> Chief of Police Roy Porter (1985- May 1989)<br>
+<b>1989:</b> Chief of Police Bill Gordon (May 1989-September 2001)<br>
+<b>2001:</b> Chief of Police Mike Worley (October 2001-July 31, 2003)<br>
+<b>2003:</b> Chief of Police William “Bill” Musser (August 2003-August 2007)<br>
+<b>2007:</b> Chief of Police Jeff Lavey (September 2007-January 3, 2021)<br>
+<b>2021:</b> Chief of Police Tracy Basterrechea (January 2001-current)<br>
 
 ## Sources for History of Law Enforcement in Meridian, Idaho 
 ## About The Meridian Police Collection
