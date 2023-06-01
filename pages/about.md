@@ -102,7 +102,7 @@ The above history is only meant to be a brief snapshot of the history of law enf
 ## Sources for History of Law Enforcement in Meridian, Idaho 
 "Bicycle Safety plan can save lives," Meridian Times, July 4, 1968, p.10<br>
 "City Officials pass new law on bicycles," Meridian Times, December 10, 1964<br>
-Kreller, Kathleen, "Officer makes Meridian K-9 Center a reality," in "Our Towns" June 7-13, 2006, Idaho Statesman, p.11-12.
+Kreller, Kathleen, "Officer makes Meridian K-9 Center a reality," in "Our Towns" June 7-13, 2006, Idaho Statesman, p.11-12.<br>
 McGill, Meridian Times, July 18, 1957.<br>
 "Meridian Builds for Community Needs," Gem State Peace Officer, Vol 13 No. 1, 1959, p. 51.<br>
 "Meridian Holds Drug Discussion," Idaho Peace Officer, March 1970, p.53<br>
