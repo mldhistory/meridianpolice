@@ -97,7 +97,7 @@ The above history is only meant to be a brief snapshot of the history of law enf
 <b>2001:</b> Chief of Police Mike Worley (October 2001-July 31, 2003)<br>
 <b>2003:</b> Chief of Police William “Bill” Musser (August 2003-August 2007)<br>
 <b>2007:</b> Chief of Police Jeff Lavey (September 2007-January 3, 2021)<br>
-<b>2021:</b> Chief of Police Tracy Basterrechea (January 2001-current)<br>
+<b>2021:</b> Chief of Police Tracy Basterrechea (January 2021-current)<br>
 
 ## Sources for History of Law Enforcement in Meridian, Idaho 
 "Bicycle Safety plan can save lives," Meridian Times, July 4, 1968, p.10<br>
